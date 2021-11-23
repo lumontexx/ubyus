@@ -1,0 +1,39 @@
+body {
+  font-family: arial;
+}
+h1 {
+  color: rgb(230, 103, 0);
+  font-size: 350%;
+  text-align: center;
+}
+.painellogoDiv {
+  width: 60%;
+  padding: 60px;
+  height: 10px;
+  display: inline-block;
+}
+.botaomenuDiv {
+  background-color: rgb(216, 205, 205);
+  width: 10%;
+  padding: 10px;
+  height: 50px;
+  display: inline-block;
+  float: right;
+  margin: 10px;
+}
+.painelvideoDiv {
+  background-color: rgba(206, 204, 204, 0.966);
+  width: 100%;
+  padding: 100px;
+}
+
+.apresentDiv {
+  background-color: #fff;
+  width: 50%;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+.imagemapresDiv {
+  display: inline-block;
+}

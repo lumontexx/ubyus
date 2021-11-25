@@ -6,10 +6,19 @@ h1 {
   font-size: 350%;
   text-align: center;
 }
+a {
+  text-decoration: none;
+  color: #fff;
+}
 .painellogoDiv {
   width: 60%;
-  padding: 60px;
+  padding: 70px;
   height: 10px;
+  display: inline-block;
+}
+.logo {
+  padding: 5px;
+  margin: auto 285px;
   display: inline-block;
 }
 .botaomenuDiv {
@@ -45,4 +54,32 @@ h1 {
   margin-left: 70px;
   text-align: center;
   font-size: 110%;
+}
+
+.cxnegocios {
+  max-width: 100%;
+  display: inline-block;
+  margin: 10px;
+}
+.cxgovernanca {
+  max-width: 100%;
+  display: inline-block;
+  margin: 10px;
+}
+.cxpessoas {
+  max-width: 100%;
+  display: inline-block;
+  margin: 10px;
+}
+.negociosDiv {
+  padding: 10px;
+  margin: 30px;
+}
+.governancaDiv {
+  padding: 10px;
+  margin: 100px auto;
+}
+.pessoasDiv {
+  padding: 10px;
+  margin: 100px auto;
 }

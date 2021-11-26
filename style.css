@@ -8,32 +8,36 @@ h1 {
 }
 a {
   text-decoration: none;
-  color: #fff;
+  color: #868482de;
 }
+
 .painellogoDiv {
-  width: 60%;
   padding: 70px;
   height: 10px;
   display: inline-block;
 }
 .logo {
   padding: 5px;
-  margin: auto 285px;
+  margin: 20px;
   display: inline-block;
 }
-.botaomenuDiv {
-  background-color: rgb(216, 205, 205);
-  width: 10%;
+.menuDiv {
+  text-decoration: none;
+  padding: auto;
+  margin: 10px auto;
+  display: inline-block;
+}
+.menulink {
   padding: 10px;
-  height: 50px;
+  margin: 20px 20px;
   display: inline-block;
-  float: right;
-  margin: 10px;
 }
+
 .painelvideoDiv {
   background-color: rgba(206, 204, 204, 0.966);
   width: 100%;
-  padding: 100px;
+  padding: 120px;
+  margin: 25px;
 }
 
 .apresentDiv {

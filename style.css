@@ -123,3 +123,10 @@ a {
   color: #605e5e;
   font-weight: bold;
 }
+
+.slogan {
+  background-color: #cdcfd19f;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}

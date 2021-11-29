@@ -92,3 +92,34 @@ a {
   padding: 10px;
   margin: 100px auto;
 }
+
+.imgslide {
+  background-color: #b9b9;
+  padding: 150px;
+}
+.rodape {
+  display: inline-block;
+  margin: auto;
+  padding: auto;
+  color: #929496;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.rodape2 {
+  text-align: center;
+}
+.qmsomos {
+  padding: 10px;
+  margin: 40px 20px;
+  text-align: center;
+}
+
+.pagprof {
+  display: inline-block;
+  margin: 10px;
+  font-sizoe: 35px;
+  color: #605e5e;
+  font-weight: bold;
+}

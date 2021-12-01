@@ -140,12 +140,12 @@ input,
 select,
 textarea {
   width: 200px;
-  padding: 12px;
+  padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
   resize: vertical;
 }
 .cursor {
@@ -154,7 +154,31 @@ textarea {
 .red {
   color: red;
 }
+.cx-margin {
+  margin-right: 200px;
+}
+.cx-margin2 {
+  margin-right: 220px;
+}
 
 .inlineblock {
   display: inline-block;
+}
+.cx-logo {
+  text-align: center;
+}
+.conteiner {
+  max-width: 100%;
+  padding: 50px;
+  background-color: #444444;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+.boldwhite {
+  color: #fff;
+  font-weight: bold;
+}
+.mrgn-rdp {
+  margin: 10px;
 }

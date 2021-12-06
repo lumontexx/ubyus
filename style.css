@@ -11,30 +11,9 @@ a {
   color: #868482de;
 }
 
-.painellogoDiv {
-  padding: 70px;
-  height: 10px;
-  display: inline-block;
-}
 .logo {
   padding: 5px;
   margin: 20px;
-  display: inline-block;
-}
-.menuDiv {
-  text-decoration: none;
-  padding: auto;
-  margin: 10px auto;
-  display: inline-block;
-}
-.menulink {
-  padding: 10px;
-  margin: 20px 20px;
-  display: inline-block;
-}
-.menuband {
-  margin: auto;
-  padding: auto;
   display: inline-block;
 }
 
@@ -44,14 +23,14 @@ a {
   margin: 25px auto;
 }
 
-.apresentDiv {
+.text-apre {
   background-color: #fff;
   width: 50%;
+  justify-content: center;
+  margin: auto 50px;
   padding: 10px;
-  margin: 10px;
-  display: inline-block;
-  font-size: 110%;
   text-align: justify;
+  font-size: 18px;
 }
 .imagemapresDiv {
   display: inline-block;
@@ -128,7 +107,6 @@ a {
 }
 
 .slogan {
-  background-color: #cdcfd19f;
   padding: 10px;
   margin: 10px;
   text-align: center;
@@ -174,10 +152,9 @@ textarea {
   gap: 20px;
   margin: 40px;
   flex-wrap: wrap;
-  justify-content: center;
 }
 .center {
-  text-align: center;
+  justify-content: center;
 }
 .boldwhite {
   color: #fff;

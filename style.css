@@ -11,12 +11,6 @@ a {
   color: #868482de;
 }
 
-.logo {
-  padding: 5px;
-  margin: 20px;
-  display: inline-block;
-}
-
 .painelvideoDiv {
   background-color: rgba(206, 204, 204, 0.966);
   padding: 200px;
@@ -107,8 +101,8 @@ a {
 }
 
 .slogan {
-  padding: 10px;
-  margin: 10px;
+  padding: 20px;
+  margin: 60px;
   text-align: center;
 }
 .cx-form {
@@ -162,4 +156,7 @@ textarea {
 }
 .cx-logo {
   text-align: center;
+}
+.center {
+  justify-content: center;
 }

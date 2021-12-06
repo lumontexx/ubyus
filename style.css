@@ -83,11 +83,6 @@ a {
 .rodape2 {
   text-align: center;
 }
-.qmsomos {
-  padding: 10px;
-  margin: 40px 20px;
-  text-align: center;
-}
 
 .pagprof {
   display: flex;
@@ -159,4 +154,7 @@ textarea {
 }
 .center {
   justify-content: center;
+}
+.f-margin {
+  margin: 20px auto;
 }

@@ -132,9 +132,6 @@ textarea {
   flex-wrap: wrap;
 }
 
-.center {
-  justify-content: center;
-}
 .boldwhite {
   color: #fff;
   font-weight: bold;

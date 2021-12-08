@@ -11,6 +11,9 @@ a {
   text-decoration: none;
   color: #868482de;
 }
+p {
+  font-size: 18px;
+}
 
 .painelvideoDiv {
   background-color: rgba(206, 204, 204, 0.966);

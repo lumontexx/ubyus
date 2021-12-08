@@ -60,13 +60,11 @@ p {
   padding: 150px;
 }
 .rodape {
-  display: inline-block;
-  margin: auto;
-  padding: auto;
+  display: flex;
+  flex-wrap: wrap;
   color: #929496;
   font-weight: bold;
   font-size: 15px;
-  text-align: justify;
 }
 
 .rodape2 {

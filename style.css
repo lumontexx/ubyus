@@ -1,5 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
+  margin: 0%;
 }
 h1 {
   color: #fb5404;
@@ -26,10 +27,7 @@ a {
   text-align: justify;
   font-size: 18px;
 }
-.imagemapresDiv {
-  display: inline-block;
-  float: right;
-}
+
 .apresent2Div {
   width: 80%;
   padding: 30px;
@@ -52,18 +50,6 @@ a {
   max-width: 100%;
   display: inline-block;
   margin: 10px;
-}
-.negociosDiv {
-  padding: 10px;
-  margin: 30px;
-}
-.governancaDiv {
-  padding: 10px;
-  margin: 100px auto;
-}
-.pessoasDiv {
-  padding: 10px;
-  margin: 100px auto;
 }
 
 .imgslide {
@@ -142,6 +128,7 @@ textarea {
   margin: 40px;
   flex-wrap: wrap;
 }
+
 .center {
   justify-content: center;
 }

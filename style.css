@@ -17,8 +17,6 @@ p {
 
 .painelvideoDiv {
   background-color: rgba(206, 204, 204, 0.966);
-  padding: 200px;
-  margin: 25px auto;
 }
 
 .text-apre {
@@ -129,7 +127,7 @@ textarea {
   justify-content: center;
 }
 .f-margin {
-  margin: 15px auto;
+  margin: 13px auto;
 }
 
 .english {
